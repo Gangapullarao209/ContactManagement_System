@@ -25,4 +25,4 @@ print("_"*50)
 for movie in list_of_movies:
     movie.info()
     print() 
-    # print("-"*50)
+    print("-"*50)
